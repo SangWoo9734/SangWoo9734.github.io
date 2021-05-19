@@ -80,7 +80,7 @@ content:
             - Logo Search shows the patent number and name of the logo image and connects to the patent page.
             - Vienna Search provides tabular words that can describe the logo image.
             - Search results provided in tabular format can be saved as csv files.
-  
+
       # Video ASK + Clova
       - layout: top-middle
         title: VideoASK API & Clova API
