@@ -65,8 +65,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This project is a search system designed to enable patent search and trademark search.
+        #quote: >
+        #  This project is a search system designed to enable patent search and trademark search.
         description: | # this will include new lines to allow paragraphs
           We have developed a <mark>Docker</mark> based search system that enables patent search or trademark search. Text-based patent search implemented a fast search system using ElasticSearch. The trademark search system measures the similarity with the trademarks learned in advance and displays the results.
 
@@ -84,12 +84,12 @@ content:
       # Video ASK + Clova
       - layout: top-middle
         title: VideoASK API & Clova API
-        link: github.com/sproogen
+        link: https://www.notion.so/VideoAsk-API-b5d0dd9171fa4371b424036aeaa3f562
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -101,19 +101,19 @@ content:
       # Twitter
       - layout: top-middle
         title: Twitter API
-        link: github.com/sproogen
+        link: https://www.notion.so/Twitter-API-699658c773564eb3b5c4eaaa7f49a96a
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+         #   url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         #quote: >
         #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          
+          In order to understand how the emotional tone contained in Twitter's Korean users' tweets about specific keywords changes over time, we have implemented the function of extracting keyword tweets using the Academic Research API.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
