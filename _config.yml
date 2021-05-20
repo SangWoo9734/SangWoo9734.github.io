@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Park SangWoo
-title : Ungraduate Researcher / Preparing for Developers
+title : Ungraduate college student / Preparing for Developers
 email: psu8430@gmail.com
 website: https://www.notion.so/My-Works-5220bbc3c0f64d06bf5f6357f943fe10
 
@@ -43,7 +43,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.JPG
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's SangWoo and I'm a college student dreaming of becoming a developer. I don't have enough experience in various fields yet, but I have a passion to realize various experiences and learning.
 
