@@ -53,7 +53,7 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: left
         title: Thunder - Patent Search Project
         icon : fab fa-github
         link: https://github.com/SangWoo9734/Thunder-search-system
