@@ -45,7 +45,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.JPG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's SangWoo and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's SangWoo and I'm a college student dreaming of becoming a developer. I don't have enough experience in various fields yet, but I have a passion to realize various experiences and learning.
 
   I am most skilled in: <mark>Python</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>BootStrap</mark>, <mark>MySQL</mark>, etc...
 
@@ -82,7 +82,7 @@ content:
             - Search results provided in tabular format can be saved as csv files.
 
       # Video ASK + Clova
-      - layout: top-middle
+      - layout: left
         title: VideoASK API & Clova API
         link: https://www.notion.so/VideoAsk-API-b5d0dd9171fa4371b424036aeaa3f562
         # link_text: Project Website
@@ -99,7 +99,7 @@ content:
           Using a Typeform service called VideoASK to create a quiz, extract the applicant's voice answers into a file, and textualize voice data through the CLOVA Speech Recognition (CSR) API.
 
       # Twitter
-      - layout: top-middle
+      - layout: left
         title: Twitter API
         link: https://www.notion.so/Twitter-API-699658c773564eb3b5c4eaaa7f49a96a
         # link_text: Project Website
